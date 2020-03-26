@@ -21,7 +21,7 @@ footnotes = '''**Footnotes**:
 
 **Source**: [http://data.un.org/Data.aspx?d=UNHCR&f=indID%3aType-Ref](http://data.un.org/Data.aspx?d=UNHCR&f=indID%3aType-Ref)
 
-Created by Alexander Güntert. See also: [https://plot.ly/~alexander.guentert](https://plot.ly/~alexander.guentert)
+Created by Alexander Güntert. See also: [https://github.com/alexanderguentert/refugees](https://github.com/alexanderguentert/refugees)
 '''
 
 
